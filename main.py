@@ -1,5 +1,4 @@
 import requests
-import time
 import telebot
 from termcolor import colored
 
