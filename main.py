@@ -13,7 +13,7 @@ from termcolor import colored
 #———————–—Libraries————––———#
 session = requests.Session()
 #——————–——session—————————#
-bot = telebot.TeleBot('6047075637:AAGq1Np0y4FT8iuVLCpM-F-vLuBkARmK-Fo')
+bot = telebot.TeleBot('5263113264:AAG10fBRoKE-w2rZbBLNoUhy8R48XxbP6oQ')
 #——–——–—–—BoT_Login———–————#
 @bot.message_handler(commands=['start'])
 def start(message):
