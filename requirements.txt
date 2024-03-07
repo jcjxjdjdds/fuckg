@@ -1,5 +1,0 @@
-requests
-telebot
-termcolor
-fake_useragent
-bs4
